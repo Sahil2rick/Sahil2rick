@@ -17,9 +17,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="sahilsaini.co" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="sahilsaini.co" width="22px" src="https://www.sahilsaini.co" />][website]
 
-[<img align="left" alt="https://www.linkedin.com/in/sahil-saini-05700718b/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="https://www.linkedin.com/in/sahil-saini-05700718b/" width="22px" src="https://www.linkedin.com/in/sahil-saini-05700718b/" />][linkedin]
 
 
 <br />
