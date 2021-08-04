@@ -18,13 +18,10 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
+[![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=sahil2rick&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil2rick&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Sahil2rick's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sahil2rick&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://sahilsaini.co
 [linkedin]: https://www.linkedin.com/in/sahil-saini-05700718b/
