@@ -1,6 +1,6 @@
 ### Hi there, I'm Sahil  👋
 
-[![Website](https://img.shields.io/website?label=sahilsaini.co&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sahilsaini.co)
+
 
 
 ## I'm a Hacker, Developer🤣, and Student!!
