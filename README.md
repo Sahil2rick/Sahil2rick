@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: i don't have them 👨‍💻
+- 🥅 2022 Goals: i don't have them 👨‍💻
 - ⚡ Fun fact: I love to draw 
 
 
